@@ -1,5 +1,5 @@
 _repo: Poems-By-a-Little-Girl_1612
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Lowell, Amy
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '147'
     url: http://www.gutenberg.org/2009/agents/147
     wikipedia: http://en.wikipedia.org/wiki/Amy_Lowell
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Conkling, Hilda
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '673'
     url: http://www.gutenberg.org/2009/agents/673
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1612#Poems-By-a-Little-Girl
 gutenberg_issued: '1999-01-01'
 gutenberg_type: Text
 identifiers:
